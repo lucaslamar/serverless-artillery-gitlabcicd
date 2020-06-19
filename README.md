@@ -22,4 +22,4 @@ npm test -> artilley-scripts test,
 ## Contato
 
 Lucas Lamar - [Github](https://github.com/lucaslamar) - **lucass.lamar@gmail.com** <br>
-GitLab - [Github](https://gitlab.com/lucaslamar/serverless-artillery-gitlabcicd) <br>
+GitLab - [GitLab](https://gitlab.com/lucaslamar/serverless-artillery-gitlabcicd) <br>
